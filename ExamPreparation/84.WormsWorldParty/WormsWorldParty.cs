@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _84.WormsWorldParty
 {
-    class WWparty
+    class WormsWorldParty
     {
         static void Main(string[] args)
         {
